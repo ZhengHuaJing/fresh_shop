@@ -1,0 +1,18 @@
+export const USER_TOKEN = 'user_token'
+export const USER = 'user'
+export const CATEGORYS = 'categorys'
+export const GOODSES = 'goodses'
+export const GOODS = 'goods'
+export const NEW_GOODSES = 'new_goodses'
+export const HOT_GOODSES = 'hot_goodses'
+export const HOT_WORDS = 'hot_words'
+export const INDEX_CATEGORYS = 'index_categorys'
+export const ORDERS = 'orders'
+export const ORDER = 'order'
+export const SHOPPING_CARTS = 'shopping_carts'
+export const ADDRESSES = 'addresses'
+export const FAVS = 'favs'
+export const CATEGORY_INDEX = 'category_index'
+export const PAGING_PARAMS = 'paging_params'
+
+
