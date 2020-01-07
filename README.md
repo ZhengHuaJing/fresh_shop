@@ -6,27 +6,27 @@
 
 列表页
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/1-2.png)
+![1-2](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/1-2.png)
 
 二、Web App端
 
 首页
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/2-1.png)
+![2-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/2-1.png)
 
 列表页
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/2-2.png)
+![2-2](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/2-2.png)
 
 三、后端
 
 后台管理系统
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/3-1.png)
+![3-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/3-1.png)
 
 API文档系统
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/3-2.png)
+![3-2](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/3-2.png)
 
 四、功能列表
 
@@ -53,7 +53,7 @@ API文档系统
 
 五、技术栈
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/4-1.png)
+![4-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/4-1.png)
 
 六、运行项目
 
@@ -88,11 +88,11 @@ Web App端
 
 七、注意事项
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-1.png)
+![5-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-1.png)
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-2.png)
+![5-2](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-2.png)
 
-![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-3.png)
+![5-3](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-3.png)
 
 
 
