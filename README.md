@@ -1,14 +1,20 @@
 一、前端
 
-![1-1](C:\Users\EeeDong-0008\Desktop\fresh_shop\项目展示图片\1-1.png)
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/1-1.png)
+
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/1-2.png)
 
 二、Web App端
 
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/2-1.png)
 
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/2-2.png)
 
 三、后端
 
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/3-1.png)
 
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/3-2.png)
 
 四、功能列表
 
