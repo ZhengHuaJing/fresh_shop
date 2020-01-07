@@ -39,32 +39,57 @@
 	19. 收货地址管理
 	20. 支付宝支付
 
-三、技术栈
+五、技术栈
 
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/4-1.png)
 
-
-四、运行项目
+六、运行项目
 
 下载
-git clone 
+
+git clone https://github.com/ZhengHuaJing/fresh_shop 
+
 
 
 后端
 
+1. cd shop_server       # 进入后端项目
+2. 将 drf_shop.sql 文件导入到数据库，然后配置 settings.py 中, 数据库名、用户名和密码
+3. pip install -r  piplist.txt     # 在项目的跟目录下有个 piplist.txt 文件，通过命令安装需要的包
+4. python manage.py  runserver 127.0.0.1:8000      # 在项目根目录输入命令启动项目，或者通过配置pycharm启动 
+
+
 
 前端
 
-
-Web app端
-
-五、注意事项
-
+1. cd shop_client        # 进入前端项目
+2. npm install              # 安装需要的包
+3. npm run serve        # 启动项目
 
 
 
-六、建议与帮助
-QQ：714141681
-Email: 714141681@qq.com
+Web App端
+
+1. cd shop_app        # 进入Web App项目
+2. npm install              # 安装需要的包
+3. npm run serve        # 启动项目
+
+七、注意事项
+
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-1.png)
+
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-2.png)
+
+![1-1](https://github.com/ZhengHuaJing/fresh_shop/blob/master/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87/5-3.png)
+
+
+
+八、建议与帮助
+
+- 
+  QQ：714141681
+
+- Email: 714141681@qq.com
 
 
 
